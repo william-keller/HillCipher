@@ -11,7 +11,7 @@ String cifrado = "abdoqubvfa";
 	  
 	  String PalavraOriginal = "helloworld";
 		
-      ArrayList<int[][]> keys = new ArrayList<int[][]>();
+          ArrayList<int[][]> keys = new ArrayList<int[][]>();
 	  
 	  ArrayList<int[][]> dirtyKeys = new ArrayList<int[][]>();
 
